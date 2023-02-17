@@ -1,0 +1,19 @@
+{
+  "name": "cybernetically-angular-design-system",
+  "description": "Cybernetically Angular Design System",
+  "keywords": [],
+  "author": {
+    "name" : "Arseniy Tomkevich",
+    "email" : "jsmasery@gmail.com"
+  },
+  "license": "Proprietary",
+  "version": "0.0.53",
+  "peerDependencies": {
+    "@angular/common": "^15.1.0",
+    "@angular/core": "^15.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
